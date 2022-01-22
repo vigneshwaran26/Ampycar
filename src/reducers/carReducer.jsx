@@ -1,0 +1,8 @@
+import { 
+    FETCHING_CARS,
+    FETCHING_CARS_FAILED,
+    FETCHING_CARS_SUCCEDDED,
+    SEARCHING_CARS,
+    SEARCHING_CARS_FAILED,
+    SEARCHING_CARS_SUCCEDDED
+ } from '../constants/actiontypes';

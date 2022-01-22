@@ -1,0 +1,7 @@
+.nav{
+    display: flex;
+    text-align: center;
+    justify-content: left;
+    padding: 0px 0px 10px 0px;
+    background-color: rgba(253,202,199,255);
+}

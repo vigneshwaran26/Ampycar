@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+
+*{
+    font-family: 'Poppins';
+    font-size: 16px;
+}
+
+
+
+.summary_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8%;
+}
+
+.summary_card{
+    width: 40%;
+    border: 1px solid #ccc;
+    align-items: center;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.checkout_btn{
+    border-radius: 20px;
+    border: 0px;
+    margin: 0px;
+    width: 100%;
+    background: green;
+    height: 46px;
+}
+
+.vechile_type{
+    display: relative;
+    letter-spacing: normal;
+    margin: 0px
+}
+
+.price{
+    text-align: center;
+    /* left: 8px; */
+    /* align-items: center; */
+    font-weight: bold;
+}
+
